@@ -2,7 +2,7 @@ package gdbsteam.guiabussaco;
 
 import java.util.ArrayList;
 
-import org.osmdroid.ResourceProxy;
+//import org.osmdroid.ResourceProxy;
 import org.osmdroid.api.IMapView;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.overlay.ItemizedOverlay;
@@ -15,9 +15,8 @@ public class MyItemizedOverlay extends ItemizedOverlay<OverlayItem> {
 
     private ArrayList<OverlayItem> overlayItemList = new ArrayList<OverlayItem>();
 
-    public MyItemizedOverlay(Drawable pDefaultMarker,
-                             ResourceProxy pResourceProxy) {
-        super(pDefaultMarker, pResourceProxy);
+    public MyItemizedOverlay(Drawable pDefaultMarker) {
+        super(pDefaultMarker);
         // TODO Auto-generated constructor stub
     }
 
