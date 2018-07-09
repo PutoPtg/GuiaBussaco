@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bussaco\'s Guide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="acerca_texto"><b>Digital Guide\nof\nSerra do Bussaco</b>\nVersion: 1.0\n\n Created by:\n<b>Manuel Amado\nTomás Carvalho\nPedro Ferreira</b>\n\nAcademic work part of the subject "Management of Projects and Inovation\n\nUniversity of Coimbra\n2015\n\n<b><i>This app has open source code from:</i>\nOSMDROID\nOSMPLUS\n\n<i>Also has \"free to use\" code from:</i>\nDerek Banas\nnewthinktank.org\n\n<i>Texts translated and adapted from:</i>\nwikipedia.org\nrotadabairrada.pt\ncm-penacova.pt</b></string>
+    <string name="guia_nome">Guide</string>
+    <string name="Rotas_nome">Routes</string>
+    <string name="def_nome">Settings</string>
+    <string name="acerca_nome">About</string>
+    <string name="options">Options</string>
+    <string name="act_deact_gps">Activate Location</string>
+    <string name="title_activity_acerca">About</string>
+    <string name="gps_toast">Location On</string>
+    <string name="gps_warning">Your GPS is off.\nTurn on GPS?</string>
+
+    <string-array name="desc_pontos">
+         <item><b>Cruz Alta\nHigh Cross</b>\n
+            \n
+             \"Like a crown on the top of Bussaco\'s marvels, the High Cross is at one of the highest points of the mountain, showing a staggering panoramic view!\"\n
+             These are the words of Augusto Castro\'s book \"Guia Histórico do Viajante do Bussaco\" from 1896, in wich he describes the \"Cruz Alta\". These words are still true.\n
+             It is the second highest point of the mountain at 547 meters above sea level (the geodesic point is at 549). Facing west it has one of the best views of the bairrada and neighbours.
+             From here you can see the Atlantic Ocean (west), "Serra da Estrela" (South-east), and Caramulo (North-east).
+             You can also see the cities of Coimbra and the Mondego Valley until the \"Boa Viagem\" mountain to the South-west, Mealhada to the west, Cantanhede a litle further west, Anadia to the North and Aveiro to the Northwest on cloudless days with no mist.
+             The \"Cruz Alta\" is much older than the Bussaco\'s Park. The first one cross was made of wood and constructed by a seamen who was lost at sea and saw the mountain as a point to return to shore.
+             After the original, another one was made from a cypress by Francisco Ferreira de Miranda but was destroyed in 1645 by a lightning strike.
+             In 1648, Manuel Saldanha, the University of Coimbra\'s Master, constructed on the same spot a small rampart with battlements and a stone cross on top of three steps also made of stone. It became ruined in 1834.
+             It was rebuilt in 1841 by Coimbra\'s Civil Government and, again, struck by lightning in 1893 and rebuilt in the same year.
+             The modern construction of concrete with black and white stones is from the early 1900\'s when the Bussaco\'s Park was transformed into a Romantic Garden. Some of the original stones from the early cross are the benches on the side of the access stairs.
+        </item>
+        <item><b>Ermida de Nossa Senhora do Monte Alto</b>\n\nA Ermida de Nossa Senhora do Monte Alto é um pequeno santuário de montanha localizado no estremo sudeste da Serra do Bussaco, no alcantilhado do Montalto. Fica a Norte de Penacova e na freguesia da mesma.\nO santuário é constituído de uma pequena capela e de um adro. A construção actual é do século XVIII mas as origens remontam à época pré-romana.\nJá foi tradição das terras à volta de realizarem uma romaria a 8 de Setembro para assistirem a missa e procissão.\n\nCuriosidade:\nÉ um dos melhores miradouros com vista sobre Penacova e o Mondego.</item>
+        <item><b>Grande Hotel de Luso</b>\n\nO Grande Hotel de Luso situa-se na vila de Luso.\nFoi mandado construir pela Sociedade da Água de Luso, quando o seu presidente era Bissaya Barreto.\nA construção com projecto do arquitecto Cassiano Branco teve início em 1938 e foi inaugurado em 27 de Julho de 1940.\n\nCuriosidade:\nO hotel possui uma Piscina olímpica.</item>
+        <item><b>Monumento da Guerra Peninsular</b>\n\nO Monumento da Guerra Peninsular, também conhecido por Obelisco, é um monumento classificado construído a partir de uma pedra única. Este monumento, comemorativo da batalha do Buçaco e os feitos militares durante a guerra situam-se fora dos muros da mata.\nNo topo possui uma estrela com pontas de cristal e na base encontra-se uma coroa em bronze descerrada por D. Manuel II no ano de 1910. O monumento é circundado por uma corrente de ferro unida por oito peças de artilharia. </item>
+        <item><b>Museu do Moinho Vitorino Nemésio</b>\n\nO Museu do Moinho Vitorino Nemésio encontra-se num edifício no perímetro da Portela da Oliveira. O acervo patrimonial contempla artefactos ligados aos diversos tipos de moinhos de água e vento, assim como fotografias acerca do modo de vida dos moleiros. Estão identificados os tipos de moinhos de vento nacionais e suas especificidades, com especial destaque para o moinho serrano, característico da região Centro de Portugal.</item>
+        <item><b>Palace Hotel of Bussaco</b>\n
+			\n
+			The Palace Hotel of Bussaco is a palatial hotel that is located in the centre of the Bussaco\'s Park, right next to the convent.\n
+			It is a neo-manueline style (a kind of Portuguese baroque) design by Luigi Manini. It has the profile of the Lisbon\'s Tower of Belém with motifs from the Jerónimos Monastery and arabesques and florescences from the Tomar\'s Convent of Christ. It also has many Portuguese style tiled panels from Jorge Colaço with motifs from the book Lusíadas, some Gil Vicente\'s plays and scenes from the Peninsular War. The Palace was built between 1888 and 1907 and destroyed many parts of the old convent.
+			\n\n
+			Curiosity:\n
+			The current palace was built already with the intention of being an hotel. The Royal Palace design for Bussaco was never built because of political and social reasons. The location of this unbuilt palace was next to the \'Portas de Coimbra\', right where is nowadays a guard house.
+		</item>
+        <item><b>Pelourinho de Carvalho</b>\n\nPelourinho com data provável de edificação de 1514, ano em D. Manuel terá concedido o foral à vila. De fuste octogonal e encimado por um capitel com remate em forma de pirâmide, está ornamentado com uma cruz e símbolos heráldicos em duas das faces. Nas restantes figura a Cruz de Cristo.</item>
+        <item><b>Portela da Oliveira</b>\n
+			\n
+			The \'Portela da Oliveira\' is an agglomerate of windmills located on the top of bussaco\'s mountain between the villages of Palmazes and São Paulo.\n
+			It has 19 mills, the majority in ruins, a cafeteria, a watch-tower and a water cistern. 
+			Located at the hight of 477 meter, the visitor can contemplate the main mountains of the region: Bussaco\'s itself, Estrela, Lousã and Lorvão.\n
+			\n
+			Curiosity:\n
+			In the agglomerate there is a mill museum, which was an old mill, and the Vitorino Nemesio\'s Mill, that is a fully functional mill.
+		</item>
+        <item><b>Posto de Comando de Wellington</b>\n\nO Posto de Comando de Wellington é um miradouro constituído por alguns degraus em pedra e por uma placa comemorativa no topo de uma peneda.\nSitua-se no alto da serra a meio caminho entre a cruz alta e a portela da armada, voltado para nascente. É um local de acesso difícil para veículos que não sejam todo o terreno.</item>
+        <item><b>Malo Clinic\nTermas de Luso</b>\n\nAs Termas de Luso são uma nascente de água termal descobertas em 1726. A água é hipossalina, mesotermal, cloretada sódica, sendo a concentração de sílica cerca de 26% do valor de mineralização total. São recomendadas para tratamento de afecções das vias respiratórias, afecções nefro-urinárias, afecções reumáticas e músculo esqueléticas e aparelho circulatório. Estão em funcionamento todo o ano numa parceria entre a Sociedade das Águas de Luso e a Malo Clinic.</item>
+    </string-array>
+
+    <string-array name="pontos">
+        <item>Cruz Alta</item>
+        <item>Ermida do Mont\'Alto</item>
+        <item>Grande Hotel de Luso</item>
+        <item>Monumento da Guerra Peninsular</item>
+        <item>Museu do Moinho Vitorino Nemésio</item>
+        <item>Palace Hotel do Bussaco</item>
+        <item>Pelourinho de Carvalho</item>
+        <item>Portela da Oliveira</item>
+        <item>Posto de Comando de Wellington</item>
+        <item>Termas de Luso</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+

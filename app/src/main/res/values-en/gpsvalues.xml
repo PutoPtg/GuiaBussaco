@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="gpsn">
+        <item>4037107</item>
+        <item>4028105</item>
+        <item>4038475</item>
+        <item>4037634</item>
+        <item>4030231</item>
+        <item>4037618</item>
+        <item>4032954</item>
+        <item>4030479</item>
+        <item>4035060</item>
+        <item>4038408</item>
+    </integer-array>
+
+    <integer-array name="gpsw">
+        <item>-836576</item>
+        <item>-828090</item>
+        <item>-837838</item>
+        <item>-835787</item>
+        <item>-830607</item>
+        <item>-836498</item>
+        <item>-831320</item>
+        <item>-830665</item>
+        <item>-834608</item>
+        <item>-837727</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guia Bussaco</string>
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="action_settings">Preferências</string>
+    <string name="acerca_texto"><b>Guia Digital\nda\nSerra do Bussaco</b>\nVersão: 1.0\n\n Criado por:\n<b>Manuel Amado\nTomás Carvalho\nPedro Ferreira</b>\n\nTrabalho Académico no âmbito da cadeira de Projetos de Gestão e de Inovação\n\nUniversidade de Coimbra\n2015\n\n<b><i>Esta aplicação contém código aberto de:</i>\nOSMDROID\nOSMPLUS\n\n<i>Contém também código \"free to use\" de:</i>\nDerek Banas\nnewthinktank.org\n\n<i>Contém textos na íntegra ou adaptados de:</i>\nwikipedia.org\nrotadabairrada.pt\ncm-penacova.pt</b></string>
+    <string name="guia_nome">Guia</string>
+    <string name="Rotas_nome">Rotas</string>
+    <string name="def_nome">Preferências</string>
+    <string name="acerca_nome">Acerca</string>
+    <string name="options">Preferências</string>
+    <string name="act_deact_gps">Ativar Localização</string>
+    <string name="title_activity_acerca">Acerca</string>
+    <string name="gps_toast">Localização Ativa</string>
+    <string name="gps_warning">A sua localização encontra-se desativada.\nPretende ativar?</string>
+
+    <string-array name="desc_pontos">
+        <item><b>Cruz Alta</b>\n
+            \n
+            \"Como Coroa e remate das maravilhas do Bussaco, está a Cruz Alta num dos pontos mais elevados e culminantes da montanha, dominando um panorama majestoso e deslumbrante!\"\n
+            É com estas palavras que Augusto Castro descreve a Cruz Alta no seu livro \"Guia Histórico do Viajante do Bussaco\" de 1896, palavras que ainda hoje são atuais.\n
+            É o segundo ponto mais alto da Serra do Bussaco a 547 metros de Altitude (o Marco Geodésico do Planalto do Bussaco fica a 549 metros de altitude), voltado a poente e com uma das melhores vistas sobre toda a região bairradina e arredores.
+            As vistas a partir deste local são deslumbrantes, avistando-se desde o Oceano Atlântico (a Oeste) à Serra da Estrela (Sudeste), passando pela Serra do Caramulo (Nordeste).
+            Avistam-se ainda as cidades de Coimbra e o vale do Mondego até à serra da Boa Viagem, a cidade de Mealhada, de Cantanhede um pouco mais à frente, Anadia um pouco para Norte e ainda Aveiro em dias claros e sem névoas.
+            A Cruz Alta é anterior à construção do deserto do bussaco existindo uma cruz de pau no mesmo local erigida por um "certo mareante" que andava perdido no Atlântico e, ao ver a serra, se conseguiu orientar.
+            Após ruína da original, uma outra, de Cipreste, foi mandara erigir por Francisco Ferreira de Miranda, destruída por um raio em 1645.
+            Em 1648, Manuel Saldanha construiu no mesmo local um baluarte com ameias no qual colocou uma cruz de pedra sobre três degraus de cantaria. Esta cruz viria a ser destruída em 1834.
+            Foi reconstruída em 1841 pelo Governo Civil de Coimbra, novamente destruída por um raio em 1893 e reparada no mesmo ano.
+            A construção actual de cimento enfeitado em pedra deve-se à última reforma da mata aquando da sua transformação em Jardim Romântico, sendo que as pedras antigas ainda se encontram a servir de bancos na entrada da escadaria de acesso.
+
+        </item>
+        <item><b>Ermida de Nossa Senhora do Monte Alto</b>\n
+            \n
+            A Ermida de Nossa Senhora do Monte Alto é um pequeno santuário de montanha localizado no estremo sudeste da Serra do Bussaco, no alcantilhado do Montalto.
+            Fica a Norte de Penacova e na freguesia da mesma.\n
+            O santuário é constituído de uma pequena capela e de um adro.
+            A construção actual é do século XVIII mas as origens remontam à época pré-romana.\n
+            Já foi tradição das terras à volta de realizarem uma romaria a 8 de Setembro para assistirem a missa e procissão.\n
+            \nCuriosidade:
+            \nÉ um dos melhores miradouros com vista sobre Penacova e o Mondego.
+        </item>
+        <item><b>Grande Hotel de Luso</b>\n
+            \n
+            O Grande Hotel de Luso situa-se na vila de Luso.\nFoi mandado construir pela Sociedade da Água de Luso, quando o seu presidente era Bissaya Barreto.\nA construção com projecto do arquitecto Cassiano Branco teve início em 1938 e foi inaugurado em 27 de Julho de 1940.\n\nCuriosidade:\nO hotel possui uma Piscina olímpica.</item>
+        <item><b>Monumento da Guerra Peninsular</b>\n\nO Monumento da Guerra Peninsular, também conhecido por Obelisco, é um monumento classificado construído a partir de uma pedra única. Este monumento, comemorativo da batalha do Buçaco e os feitos militares durante a guerra situam-se fora dos muros da mata.\nNo topo possui uma estrela com pontas de cristal e na base encontra-se uma coroa em bronze descerrada por D. Manuel II no ano de 1910. O monumento é circundado por uma corrente de ferro unida por oito peças de artilharia. </item>
+        <item><b>Museu do Moinho Vitorino Nemésio</b>\n\nO Museu do Moinho Vitorino Nemésio encontra-se num edifício no perímetro da Portela da Oliveira. O acervo patrimonial contempla artefactos ligados aos diversos tipos de moinhos de água e vento, assim como fotografias acerca do modo de vida dos moleiros. Estão identificados os tipos de moinhos de vento nacionais e suas especificidades, com especial destaque para o moinho serrano, característico da região Centro de Portugal.</item>
+        <item><b>Palace Hotel do Bussaco</b>\n\nO Palace Hotel do Bussaco localiza-se na Mata Nacional do Buçaco.\nO edifício foi projetado no último quartel do século XIX pelo arquiteto italiano Luigi Manini, cenógrafo do Teatro Nacional de São Carlos. Contou ainda com intervenções, em diferentes fases, dos arquitetos Nicola Bigaglia, Manuel Joaquim Norte Júnior e José Alexandre Soares.\nO edifício do atual hotel, em estilo neomanuelino, está decorado com painéis de azulejos, frescos e quadros alusivos à Epopeia dos Descobrimentos portugueses, todos eles assinados por alguns dos grandes mestres das artes.\n\nCuriosidade:\nÉ considerado o último legado dos reis de Portugal.</item>
+        <item><b>Pelourinho de Carvalho</b>\n\nPelourinho com data provável de edificação de 1514, ano em D. Manuel terá concedido o foral à vila. De fuste octogonal e encimado por um capitel com remate em forma de pirâmide, está ornamentado com uma cruz e símbolos heráldicos em duas das faces. Nas restantes figura a Cruz de Cristo.</item>
+        <item><b>Portela da Oliveira</b>\n\nA Portela da Oliveira é um conjunto de moinhos de vento que se situa no alto da Serra do Bussaco, na freguesia de Sazes do Lorvão entre Palmazes e São Paulo.\nÉ composta por 19 moinhos, a maioria em ruínas, uma cafetaria de apoio, uma torre de vigia e uma cisterna de água. Situa-se a 477 metros de altitude e a vista abarca as principais serras da região: o próprio Bussaco, Estrela, Lousã e Lorvão.\n\nCuriosidade:\nNo conjunto de moinhos encontra-se o Museu do Moinho, um antigo moinho reconvertido e também o moinho Vitorino Nemésio, que pertenceu ao escritor açoriano e que ainda se encontra funcional.</item>
+        <item><b>Posto de Comando de Wellington</b>\n\nO Posto de Comando de Wellington é um miradouro constituído por alguns degraus em pedra e por uma placa comemorativa no topo de uma peneda.\nSitua-se no alto da serra a meio caminho entre a cruz alta e a portela da armada, voltado para nascente. É um local de acesso difícil para veículos que não sejam todo o terreno.</item>
+        <item><b>Malo Clinic\nTermas de Luso</b>\n\nAs Termas de Luso são uma nascente de água termal descobertas em 1726. A água é hipossalina, mesotermal, cloretada sódica, sendo a concentração de sílica cerca de 26% do valor de mineralização total. São recomendadas para tratamento de afecções das vias respiratórias, afecções nefro-urinárias, afecções reumáticas e músculo esqueléticas e aparelho circulatório. Estão em funcionamento todo o ano numa parceria entre a Sociedade das Águas de Luso e a Malo Clinic.</item>
+    </string-array>
+
+    <string-array name="pontos">
+        <item>Cruz Alta</item>
+        <item>Ermida do Mont\'Alto</item>
+        <item>Grande Hotel de Luso</item>
+        <item>Monumento da Guerra Peninsular</item>
+        <item>Museu do Moinho Vitorino Nemésio</item>
+        <item>Palace Hotel do Bussaco</item>
+        <item>Pelourinho de Carvalho</item>
+        <item>Portela da Oliveira</item>
+        <item>Posto de Comando de Wellington</item>
+        <item>Termas de Luso</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
